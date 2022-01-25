@@ -53,6 +53,10 @@ Install the app on the emulator or on your phone
 ```
 
 ------------------------
+------------------------
+------------------------
+------------------------
+
 
 # React-Native Mesajlaşma Uygulaması (Firebase ile)
 
