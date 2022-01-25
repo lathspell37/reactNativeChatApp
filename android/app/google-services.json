@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56993964978",
+    "project_id": "gmmessagingserv",
+    "storage_bucket": "gmmessagingserv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56993964978:android:da7ee5b6aeaae23efa7aab",
+        "android_client_info": {
+          "package_name": "com.messagingservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56993964978-gi6qqh6h5vei1nsh4tveeg6l2b93k99m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHs6Ok6v31TaNlaj1IkO6Xp15A1K8_K_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56993964978-gi6qqh6h5vei1nsh4tveeg6l2b93k99m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
