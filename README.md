@@ -30,7 +30,7 @@ Bu proje React-Native framework'ü, Gifted-Chat kütüphanesi ve Firebase veri t
 Projeyi klonlayın
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/bugratemirci/messagingService.git
 ```
 
 Proje dizinine gidin
