@@ -52,6 +52,8 @@ Install the app on the emulator or on your phone
   npx react-native run-android || npx react-native run-ios
 ```
 
+------------------------
+
 # React-Native Mesajlaşma Uygulaması (Firebase ile)
 
 ##  Özet
